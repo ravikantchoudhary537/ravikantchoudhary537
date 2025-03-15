@@ -1,10 +1,21 @@
 <h1 align="center">Hi there! 👋 I'm Ravikant Choudhary</h1>
 
+
 <p align="center">
-  <a href="mailto:ravikantchoudhary537@gmail.com">📧 Email</a> • 
-  <a href="https://github.com/your-github-username">💻 GitHub</a> • 
-  <a href="https://linkedin.com/in/your-linkedin-profile">🔗 LinkedIn</a>
+  <a href="mailto:ravikantchoudhary537@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> • 
+  <a href="https://github.com/ravikantchoudhary537">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a> • 
+  <a href="https://www.linkedin.com/in/ravikant-choudhary-a1644a23b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> • 
+  <a href="https://instagram.com/ravikant_choudhary537">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
@@ -91,12 +102,6 @@ Tech Stack: **MERN Stack**
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="45%"/>
-</p>
-
 ---
 
 ## 🎓 Education  
@@ -111,10 +116,10 @@ Tech Stack: **MERN Stack**
   <a href="mailto:ravikantchoudhary537@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/ravikantchoudhary537">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/ravikant-choudhary-a1644a23b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/ravikant_choudhary537">

@@ -83,13 +83,16 @@
 
 ## 📂 Projects  
 
-### **🛏️ Room Buddy**  
-🔗 **["https://room-buddy-five.vercel.app/"](#)** | **["https://github.com/parthy018/roomBuddy"](#)**  
-Tech Stack: **React.js, Redux Toolkit, Express.js, MongoDB**  
-- Room & Roommate Finder: Helps users find rooms and roommates based on budget, location, and lifestyle  
-- Real-Time Listings & Matching: Personalized roommate matches & geolocation-based room searches  
-- Backend: **REST API with Express.js** and **JWT authentication**  
-- Database: **MongoDB** for secure and scalable data storage  
+### 🛏️ **Room Buddy**  
+🔗 [Live Demo](https://room-buddy-five.vercel.app/) | [GitHub Repository](https://github.com/parthy018/roomBuddy)  
+
+**Tech Stack:** React.js, Redux Toolkit, Express.js, MongoDB  
+
+- 🏠 **Room & Roommate Finder:** Helps users find rooms and roommates based on budget, location, and lifestyle  
+- 📌 **Real-Time Listings & Matching:** Provides personalized roommate matches & geolocation-based room searches  
+- ⚙️ **Backend:** REST API built with **Express.js** and secured with **JWT authentication**  
+- 🛢 **Database:** Utilizes **MongoDB** for secure, scalable, and efficient data storage  
+
 
 ### **🖥️ Nginx Dashboard**  
 🔗 **[Live Demo](#)** | **[GitHub Repository](#)**  

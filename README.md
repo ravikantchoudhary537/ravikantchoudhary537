@@ -84,7 +84,7 @@
 ## 📂 Projects  
 
 ### **🛏️ Room Buddy**  
-🔗 **[Live Demo](#)** | **[GitHub Repository](#)**  
+🔗 **["https://room-buddy-five.vercel.app/"](#)** | **["https://github.com/parthy018/roomBuddy"](#)**  
 Tech Stack: **React.js, Redux Toolkit, Express.js, MongoDB**  
 - Room & Roommate Finder: Helps users find rooms and roommates based on budget, location, and lifestyle  
 - Real-Time Listings & Matching: Personalized roommate matches & geolocation-based room searches  
@@ -101,8 +101,6 @@ Tech Stack: **React.js, Express.js**
 ### **📄 MCA Project**  
 Tech Stack: **MERN Stack**  
 - Developed key forms similar to **Ministry of Corporate Affairs (MCA)** website for **efficient data handling and submission**  
-
----
 
 ---
 

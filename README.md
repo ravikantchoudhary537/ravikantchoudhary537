@@ -1,44 +1,104 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Ravikant Choudhary</h1>
 
-<!--
-**ravikantchoudhary537/ravikantchoudhary537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:ravikantchoudhary537@gmail.com">📧 Email</a> • 
+  <a href="https://github.com/your-github-username">💻 GitHub</a> • 
+  <a href="https://linkedin.com/in/your-linkedin-profile">🔗 LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there! 👋 I'm [Your Name]
+## 🚀 About Me  
+🔹 MERN Stack Developer | React.js Enthusiast  
+🔹 Passionate about building scalable web applications  
+🔹 Always exploring new technologies and optimizing performance  
 
-Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with experience in **React.js, Node.js, Express.js, PostgreSQL, Prisma, Material-UI, Redux Toolkit, and Chart.js**.
+## 📍 Experience  
+### **MERN Stack Developer** @ [Shiavsnki Technologies](#) _(May 2024 – February 2025)_  
+- Developed a **SAAS Survey Desktop Application** with **React.js & Material UI** for a modern UI/UX  
+- Implemented **Redux Toolkit** for global state management and optimized async operations using **Debounce hooks**  
+- Built an **Admin Panel** with real-time data updates and integrated **dynamic routing using React Router**  
+- Improved app performance by **optimizing React.js code and custom hooks**  
 
-## 🔥 About Me
-- 💼 MERN Stack Developer | React.js Enthusiast
-- 🚀 Working on exciting projects at **Shiavsnki Technology Pvt Ltd, Indore**
-- 🌱 Learning **Next.js & TypeScript**
-- 🏫 Alumnus of **Jawahar Navodaya Vidyalaya**
-- 💬 Ask me about **React, Redux, Express.js, PostgreSQL, Tailwind CSS**
+---
 
-## 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+## 🛠 Skills  
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+**💻 Programming Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=website&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+**🎨 Frontend:**  
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-🚀 **Happy Coding!**
+**⚙️ Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST%20API-0081CB?style=for-the-badge)  
+
+**🛠 Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+---
+
+## 📂 Projects  
+
+### **🛏️ Room Buddy**  
+🔗 **[Live Demo](#)** | **[GitHub Repository](#)**  
+Tech Stack: **React.js, Redux Toolkit, Express.js, MongoDB**  
+- Room & Roommate Finder: Helps users find rooms and roommates based on budget, location, and lifestyle  
+- Real-Time Listings & Matching: Personalized roommate matches & geolocation-based room searches  
+- Backend: **REST API with Express.js** and **JWT authentication**  
+- Database: **MongoDB** for secure and scalable data storage  
+
+### **🖥️ Nginx Dashboard**  
+🔗 **[Live Demo](#)** | **[GitHub Repository](#)**  
+Tech Stack: **React.js, Express.js**  
+- Built an **interactive UI** for managing **Nginx configurations** without command-line usage  
+- Features **virtual hosts, SSL management, load balancing, and server monitoring**  
+- Secure backend API to handle **real-time configuration updates & command execution**  
+
+### **📄 MCA Project**  
+Tech Stack: **MERN Stack**  
+- Developed key forms similar to **Ministry of Corporate Affairs (MCA)** website for **efficient data handling and submission**  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="45%"/>
+</p>
+
+---
+
+## 🎓 Education  
+📖 **MCA** - Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore _(8.35 CGPA, 2024)_  
+📖 **BSc CS** - Government Autonomous Holkar Science College, Indore _(66.84%, 2022)_  
+📖 **HSC** - Jawahar Navodaya Vidyalaya, Manpur, Indore _(87%, 2019)_  
+
+---
+
+## 📬 Connect with Me  
+<p align="center">
+  <a href="mailto:ravikantchoudhary537@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!** 🚀  

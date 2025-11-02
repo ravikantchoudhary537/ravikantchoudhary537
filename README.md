@@ -27,14 +27,14 @@
 
 ## 💼 Experience  
 
-### **MERN Stack Developer** @ [Astrodunia](#) _(May 2024 – Present, On-site)_  
+### **MERN Stack Developer** @ [Astrodunia](https://astrodunia.com/) _(May 2024 – Present, On-site)_  
 - Working as a **Full Stack Developer** in a financial astrology company, building **modern web and mobile applications**.  
 - Designed and developed **Finance.RajeevPrakash.com**, a **financial astrology terminal** for real-time US stock data visualization.  
 - Built and integrated **Admin Panel** for managing users, surveys, and reports with **real-time updates**.  
 - Optimized asynchronous operations using a **Debounce hook** for enhanced performance.  
 - Implemented **custom React hooks** for efficient rendering and state management, improving app scalability and performance.  
 
-### **MERN Stack Intern** @ [Shiavnski Technologies](#) _(January 2024 – May 2024, On-site)_  
+### **MERN Stack ** @ [Shiavnski Technologies](https://www.shiavnski.in/) _(January 2024 – May 2024, On-site)_  
 - Developed **full-stack web applications** using React.js, Node.js, Express.js, and MongoDB.  
 - Focused on **building scalable and maintainable architectures** following industry best practices.  
 - Worked on **frontend development, API integration, and Redux Toolkit** for state management.  
